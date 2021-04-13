@@ -1,0 +1,93 @@
+body {
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    text-align: center;
+
+}
+
+img {
+    border-radius: 50%;
+    width: 300px;
+}
+
+h1 {
+    
+    font-size: 20px;
+    font-family: 'Overpass', sans-serif;
+    
+}
+
+p {
+    padding: 20px;
+    font-size: 18px;
+
+    text-align: center;
+}
+
+#2 {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.menu {
+    position: fixed;
+    list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    
+}
+
+.link{
+   float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.link:hover {
+    background-color: #fff;
+}
+
+#h1{
+    font-size: 20px;
+    font-family: 'Overpass', sans-serif;
+}
+
+#sirramanujan{
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    
+}
+
+#albert{
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    
+}
+
+#h2{
+    font-size: 20px;
+    font-family: 'Overpass', sans-serif;
+}
+
+.l{
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+#h3{
+    font-size: 30px;
+    font-family: 'Overpass', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
